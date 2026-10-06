@@ -1,0 +1,12 @@
+parameter,value,A_g,B_g,C_g,A_to_B_%,B_to_C_%
+running_power_kw,0.2,16.8,13.7,5.1,-18.5,-62.6
+running_power_kw,0.3,25.1,20.5,7.2,-18.5,-65.0
+running_power_kw,0.4,33.5,27.3,9.3,-18.5,-66.1
+clutch_idle_power_kw,0.15,15.7,13.4,7.2,-14.8,-46.2
+clutch_idle_power_kw,0.3,25.1,20.5,7.2,-18.5,-65.0
+servo_idle_power_kw,0.01,25.1,20.5,6.7,-18.5,-67.3
+servo_idle_power_kw,0.02,25.1,20.5,7.2,-18.5,-65.0
+servo_idle_power_kw,0.05,25.1,20.5,8.6,-18.5,-58.0
+stitching_fraction,0.3,25.1,20.5,5.7,-18.5,-72.0
+stitching_fraction,0.4,25.1,20.5,7.2,-18.5,-65.0
+stitching_fraction,0.5,25.1,20.5,8.6,-18.5,-57.9

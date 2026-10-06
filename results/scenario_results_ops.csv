@@ -1,0 +1,4 @@
+scenario,operators,variability,output,output_ci,efficiency,efficiency_ci,wip_per_operator,wip_per_operator_ci,lead_time_min,lead_time_min_ci
+A,10,0.15,532.9,0.743,0.623,0.001,6.994,0.001,62.999,0.087
+B,12,0.15,799.3,0.791,0.78,0.001,4.344,0.037,31.301,0.275
+D,12,0.25,797.533,1.068,0.78,0.001,4.471,0.064,32.292,0.473

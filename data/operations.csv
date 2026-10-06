@@ -1,0 +1,11 @@
+op_id,operation,machine,smv_min,predecessors,smv_source
+1,Shoulder join,Overlock,0.40,,PLACEHOLDER
+2,Neck rib join,Overlock,0.50,1,PLACEHOLDER
+3,Neck top-stitch,Flatlock,0.45,2,PLACEHOLDER
+4,Back neck tape,Lockstitch,0.55,3,PLACEHOLDER
+5,Sleeve hem,Flatlock,0.60,,PLACEHOLDER
+6,Sleeve attach,Overlock,0.80,4;5,PLACEHOLDER
+7,Side seam with care label,Overlock,0.90,6;9,PLACEHOLDER
+8,Bottom hem,Flatlock,0.55,7,PLACEHOLDER
+9,Care label prep,Lockstitch,0.25,,PLACEHOLDER
+10,Trimming and inspection,Manual,0.60,8,PLACEHOLDER

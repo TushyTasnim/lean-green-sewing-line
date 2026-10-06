@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter autosaves
+.ipynb_checkpoints/
+# Personal progress log (kept local)
+PROGRESS.md

@@ -1,0 +1,18 @@
+# Line and energy parameters.
+# Every value is PLACEHOLDER until a source is written next to it.
+
+line:
+  shift_min: 480              # PLACEHOLDER
+  target_pcs_per_day: 800     # PLACEHOLDER
+
+variability:                  # operation time = SMV * (1 +/- pct)
+  base_pct: 0.15              # PLACEHOLDER (brief says 10-15%)
+  high_pct: 0.25              # PLACEHOLDER (scenario D)
+
+energy:
+  stitching_fraction: 0.40    # PLACEHOLDER share of SMV the motor is sewing
+  running_power_kw: 0.30      # PLACEHOLDER
+  clutch_idle_power_kw: 0.30  # PLACEHOLDER (assumes clutch draws full power when idle)
+  servo_idle_power_kw: 0.02   # PLACEHOLDER
+  grid_ef_kg_co2_per_kwh: 0.62   # SOURCED: DoE Bangladesh (Article 6 DNA), Ref. 22.02.0000.063.61.009.23-37, 23 Jan 2025; GEF 2021-22; methods in Bangladesh First BUR to UNFCCC (2023)
+  electricity_price_per_kwh: null  # TO SOURCE (optional)

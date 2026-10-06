@@ -1,0 +1,5 @@
+scenario,motor,output,output_ci,kwh_per_garment,kwh_per_garment_ci,g_co2_per_garment,g_co2_per_garment_ci
+A,clutch,532.9,0.7425,0.0405,0.0001,25.1308,0.035
+B,clutch,799.3,0.7914,0.033,0.0,20.4781,0.0203
+C,servo,799.3,0.7914,0.0116,0.0,7.1773,0.0071
+D,clutch,797.5333,1.0684,0.0331,0.0,20.5235,0.0275
